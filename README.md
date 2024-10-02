@@ -10,3 +10,6 @@ git clone https://github.com/teppeisanoambl/docker_test.git
 cd docker_test
 docker-compose up -d
 ```
+
+### 3. `ローカルアドレス
+http://localhost:10090/
